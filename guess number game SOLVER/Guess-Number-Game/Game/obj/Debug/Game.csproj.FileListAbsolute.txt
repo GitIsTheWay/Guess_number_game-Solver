@@ -1,0 +1,21 @@
+C:\Users\gheir\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\gheir\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\gheir\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\gheir\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\gheir\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\gheir\source\repos\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\gheir\source\repos\Game\Game\obj\Debug\Game.pdb
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\obj\Debug\Game.Form1.resources
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\obj\Debug\Game.Properties.Resources.resources
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\obj\Debug\Game.exe
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\obj\Debug\Game.pdb
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\bin\Debug\Game.exe.config
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\bin\Debug\Game.exe
+E:\MY FILES\PROJECTS\VisualStudio\guess number game SOLVER\Guess-Number-Game\Game\bin\Debug\Game.pdb
